@@ -1,0 +1,48 @@
+Added Component: Designator=J1(K210-Main-Board)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J2(InfraredCamera)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J3(LCD)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P1(HDR1X5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P2(HDR2X2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P3(HDR1X5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=6 Pin=P1-3
+Added Net: Name=6
+Added Pin To Net: NetName=26 Pin=P3-3
+Added Net: Name=26
+Added Pin To Net: NetName=GND Pin=J1-30
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=GND Pin=P3-2
+Added Net: Name=GND
+Added Pin To Net: NetName=NetP2_1 Pin=P2-1
+Added Pin To Net: NetName=NetP2_1 Pin=P2-2
+Added Net: Name=NetP2_1
+Added Pin To Net: NetName=NetP2_3 Pin=P2-3
+Added Pin To Net: NetName=NetP2_3 Pin=P2-4
+Added Net: Name=NetP2_3
+Added Pin To Net: NetName=SCL Pin=J1-28
+Added Pin To Net: NetName=SCL Pin=J2-3
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=J1-20
+Added Pin To Net: NetName=SDA Pin=J2-4
+Added Net: Name=SDA
+Added Pin To Net: NetName=Vin Pin=J1-32
+Added Pin To Net: NetName=Vin Pin=J2-1
+Added Pin To Net: NetName=Vin Pin=P1-1
+Added Pin To Net: NetName=Vin Pin=P3-1
+Added Net: Name=Vin
+Added Class: Name=IntelligentAccessControlSystem

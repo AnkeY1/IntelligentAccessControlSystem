@@ -1,0 +1,12 @@
+Added Component: Designator=SP2(M3x4_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOMÃû³Æ"; Value = "Í­Öù"; VariantName = "[No Variations]"
+Added Component: Designator=SP3(M3x4_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOMÃû³Æ"; Value = "Í­Öù"; VariantName = "[No Variations]"
+Added Component: Designator=SP4(M3x4_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOMÃû³Æ"; Value = "Í­Öù"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=IntelligentAccessControlSystem Member=Component SP2 M3Í­Öù
+Added Member To Class: ClassName=IntelligentAccessControlSystem Member=Component SP3 M3Í­Öù
+Added Member To Class: ClassName=IntelligentAccessControlSystem Member=Component SP4 M3Í­Öù

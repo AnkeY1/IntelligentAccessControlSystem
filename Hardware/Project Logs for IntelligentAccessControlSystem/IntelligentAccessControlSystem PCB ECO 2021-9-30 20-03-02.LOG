@@ -1,0 +1,5 @@
+Added Component: Designator=SP1(M3x4_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOMÃû³Æ"; Value = "Í­Öù"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=IntelligentAccessControlSystem Member=Component SP1 M3Í­Öù
+Added Room: Name=IntelligentAccessControlSystem
