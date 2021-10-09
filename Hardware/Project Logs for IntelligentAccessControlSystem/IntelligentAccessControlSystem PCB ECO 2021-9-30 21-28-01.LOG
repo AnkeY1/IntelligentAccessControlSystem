@@ -1,0 +1,7 @@
+Added Component: Designator=J1(K210-Main-Board)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=SDA Pin=J1-20
+Added Pin To Net: NetName=SCL Pin=J1-28
+Added Pin To Net: NetName=GND Pin=J1-30
+Added Pin To Net: NetName=Vin Pin=J1-32
+Added Member To Class: ClassName=IntelligentAccessControlSystem Member=Component J1 K210-Main-Board
